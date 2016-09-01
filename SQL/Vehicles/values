@@ -1,0 +1,14 @@
+INSERT INTO Vehicles(id, type, type_full, minKm, addCharge, wtgCharge )
+VALUES ('6e62d23c-1ac4-4781', 'INDICA', 'Indica A/C (4+1)', 100, 16, 2);
+
+INSERT INTO Vehicles(id, type, type_full, minKm, addCharge, wtgCharge )
+VALUES ('36076537-b760-4ace', 'SWIFT', 'Swift Dzire A/C (4+1)', 100, 18, 2);
+
+INSERT INTO Vehicles(id, type, type_full, minKm, addCharge, wtgCharge )
+VALUES ('0b990460-2ba8-4f60', 'FORD', 'Indigo Logan Ford Fiesta A/C (4+1)', 100, 18, 2);
+
+INSERT INTO Vehicles(id, type, type_full, minKm, addCharge, wtgCharge )
+VALUES ('acca0a26-0f80-4a0c', 'TAVERA', 'Tavera A/C (9+1)', 150, 21, 2);
+
+INSERT INTO Vehicles(id, type, type_full, minKm, addCharge, wtgCharge )
+VALUES ('a469c9a7-11e8-48b6', 'INNOVA', 'Innova Xylo A/C (6+1)(7+1)', 150, 21, 2);
